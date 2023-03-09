@@ -1,0 +1,7 @@
+# mac hidden files
+vscode
+.DS_Store
+
+# venv directory
+webcolors_venv
+__pycache__
